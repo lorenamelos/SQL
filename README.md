@@ -1,2 +1,2 @@
 # SQL for Data Analysis
-Udacity Course
+CodeAcademy & Udacity Course
